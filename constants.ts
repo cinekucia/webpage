@@ -7,7 +7,7 @@ export const PERSONAL_INFO = {
   linkedin: 'https://www.linkedin.com/in/filip-kucia/',
   github: 'https://github.com/cinekucia/webpage',
   // TODO: Replace this with a direct URL to your professional photo
-  imageUrl: 'https://i.ibb.co/7j0B6bN/placeholder.png',
+  imageUrl: '/filip_kucia_.jpg',
 };
 
 export const PROFILE_TEXT = "I am a Machine Learning Engineer Intern at Samsung R&D Poland with over a year of experience in the company, and I hold an M.Eng. in Data Science from Warsaw University of Technology. My interests include statistics, data analysis, mathematics, and machine learning. Complementing my technical expertise, I also earned a BSc in Quantitative Methods in Economics from the Warsaw School of Economics, which enables me to effectively combine analytical skills with business knowledge. Currently, I am a PhD candidate at Warsaw University of Technology, pursuing research in artificial intelligence and dialogue systems.";
